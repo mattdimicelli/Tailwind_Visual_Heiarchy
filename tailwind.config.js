@@ -7,6 +7,12 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      height: {
+        'side': '39rem',
+        'halfvh': '50vh',
+        'quartervh': '25vh',
+        'threeqvh': '75vh',
+      },
     },
   },
   variants: {
