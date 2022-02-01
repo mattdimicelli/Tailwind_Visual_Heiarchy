@@ -10,7 +10,7 @@ The goal of this exercise was to start training myself to think in terms of visu
 
 My job was to create a grayscale heat map of the [Smashing Magazine website](http://smashingmagazine.com/) that indicates which elements have the greatest weight in the visual hierarchy.
 
-See the complete design requirements in The Odin Project curriculum [here](https://www.theodinproject.com/paths/full-stack-javascript/courses/html-and-css/lessons/design-teardown).
+See the complete design requirements in The Odin Project curriculum [here](https://web.archive.org/web/20211128175755/https://www.theodinproject.com/paths/full-stack-javascript/courses/html-and-css/lessons/design-teardown).
 
 Being such an "artsy" project, I took advantage of "artistic liberty" and decided to implement this project using Tailwind CSS.
 
@@ -22,8 +22,8 @@ Being such an "artsy" project, I took advantage of "artistic liberty" and decide
 
 ### Links
 
-- [Live site](https://mattdimicelli.github.io/visual_heiarchy/)
-- [Repo](https://github.com/mattdimicelli/visual_heiarchy)
+- [Live site](https://mattdimicelli.github.io/Tailwind_Visual_Heiarchy/)
+- [Repo](https://github.com/mattdimicelli/Tailwind_Visual_Heiarchy/)
 
 ## My process
 
